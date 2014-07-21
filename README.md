@@ -1,4 +1,4 @@
 scripts
 =======
 
-A handy collection of scripts that make life easier
+A handy collection of scripts that make life easier.
